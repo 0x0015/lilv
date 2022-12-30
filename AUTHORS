@@ -12,3 +12,6 @@ Plugin execution via Python bindings:
 
 Python preset script:
     Christopher Arndt <chris@chrisarndt.de>
+
+CMake build system:
+    0x0015
